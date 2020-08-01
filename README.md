@@ -1,5 +1,5 @@
 # infoIP
-Herramienta para obtenet informacion publica de IPs
+Herramienta para obtener informacion publica de IPs
 
 # Requisitos
 
