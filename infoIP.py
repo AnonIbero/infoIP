@@ -98,7 +98,7 @@ def localizar():
 def requisitos():
     os.system("apt-get install python3-pip")
     os.system("pip3 install urllib3")
-    os.system("pip3 install request")
+    os.system("pip3 install requests")
     os.system("pip3 install json")
 
 if __name__ == "__main__":
